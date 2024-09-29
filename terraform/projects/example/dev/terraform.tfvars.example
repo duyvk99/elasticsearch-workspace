@@ -1,0 +1,17 @@
+logs_webhook           = "https://webhook.site/log-alerts"
+metrics_webhook        = "https://webhook.site/metric-alerts"
+project_name           = "example"
+environment            = "dev"
+log_chat_id            = "-123456789"
+metric_chat_id         = "-123456789"
+bot_token              = "BOT_TOKEN"
+fleet_server_host_id   = "<FLEET_SERVER_HOST_ID>"
+monitoring_output_id   = "<MONIROTING_OUTPUT_ID>"
+data_output_id         = "<DATA_OUTPUT_ID>"
+api_key                = "ELASTICSEARCH_API"
+elasticsearch_endpoint = "ELASTICSEARCH_ENDPOINT"
+kibana_endpoint        = "ELASTICSEARCH_KIBANA"
+enabled_metric         = true
+enabled_fleet_3rd     = false
+additional_filter     = ["project1","project2"]
+additional_dataview   = ["common"]

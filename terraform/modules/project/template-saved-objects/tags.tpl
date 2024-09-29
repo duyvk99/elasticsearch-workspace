@@ -1,0 +1,3 @@
+{"attributes":{"color":"#fa8ff6","description":"","name":"env:${environment}"},"id":"${environment}-tag-id","managed":false,"references":[],"type":"tag"}
+{"attributes":{"color":"#297953","description":"","name":"project:${project}"},"id":"${project}-tag-id","managed":false,"references":[],"type":"tag"}
+{"excludedObjects":[],"excludedObjectsCount":0,"exportedCount":2,"missingRefCount":0,"missingReferences":[]}
